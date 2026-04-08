@@ -4,6 +4,10 @@ A multiplayer **Crash-style betting game** built in Unity, integrated with the *
 
 Players place bets before each round, watch a multiplier grow in real time, and must cash out before the graph crashes — or lose their bet.
 
+## Demo
+
+https://github.com/user-attachments/assets/443b5d80-d50d-427e-9273-998c1ad392a9
+
 ---
 
 ## Features
